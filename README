@@ -2,9 +2,8 @@
 
 
 The architecture has been chosen from the Prednet model:
-  https://github.com/coxlab/prednet
+  https://arxiv.org/abs/1605.08104
   
-Another architecture was choosen from:
-  https://github.com/farquasar1/ConvLSTM
+Winner solution for Qualcomm ML Hackathon
   
   
